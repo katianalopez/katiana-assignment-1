@@ -1,0 +1,55 @@
+body {
+    margin: 0px;/*erases the white around the img*/
+}
+.section-1 {
+    background-color: rgb(71, 40, 211);
+    color: white;
+    font-family: Arial;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+input[type= "button"] {
+    padding: 10px 5px ; /* cant figure out how to get padding to work*/
+    border-radius: 25px;
+    font-size: large;
+    /* cant figure out how to get padding to work*/
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+} 
+
+a:visited {
+    color:white;
+}
+a:hover{
+    color: lightgrey;
+}
+button{
+    padding: 15px 60px ;
+    border-radius: 45px;
+    font-size: large;
+    background-color: orange;
+    color: white;
+    
+    border: 0px;   
+}
+/*img.animated-gif{
+        width: 250px;
+        height: auto;
+}*/
+/*
+.p-3{
+    font-weight: 200;
+} */
+
+.section-2 {
+    background-color: rgb(71, 40, 211);
+    color: white;
+    font-family: Arial;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
